@@ -2,9 +2,11 @@
 
 Este proyecto es un ejemplo de una aplicación web desarrollada con React.
 
+
 ## Comenzando
 
 Estas instrucciones te ayudarán a obtener una copia del proyecto en tu máquina local para propósitos de desarrollo y prueba. Consulta las notas de despliegue para conocer cómo desplegar el proyecto en un entorno de producción.
+
 
 ### Prerrequisitos
 
@@ -19,11 +21,9 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
    ```sh
    git clone https://github.com/Archimantis2/Monly.git
 
-
 2. Instala las dependencias:
 
    npm install
-
 
 3. Inicia la aplicación: 
 

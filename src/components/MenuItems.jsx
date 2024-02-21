@@ -27,7 +27,7 @@ const MenuItems = ({ items, item, index, depthLevel, configColor}) => {
                     />
                 </>
             ) : (
-                <a href="#">{item.name}</a>
+                <a href="javascript:void(0)">{item.name}</a>
             )}
         </li >
     );
