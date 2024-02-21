@@ -19,11 +19,13 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
    ```sh
    git clone https://github.com/Archimantis2/Monly.git
 
+
 2. Instala las dependencias:
 
    npm install
 
-3. Inicia la aplicación::
+
+3. Inicia la aplicación: 
 
    npm start
 
